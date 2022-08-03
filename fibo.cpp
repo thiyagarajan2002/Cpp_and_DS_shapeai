@@ -19,6 +19,7 @@ for(int i=0;i<num-2;i++)
 }
 return 0;
 }
+
 /*
 Enter the number n
 10
